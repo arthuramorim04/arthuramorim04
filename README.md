@@ -9,7 +9,6 @@
 
 
 ##### Observação
-```
+
 Alguns repositórios são projetos academicos, assim podendo ter o conteudo do sistema em apenas um arquivo 
 por pedido dos professores das matérias. Para visualizar projetos privados entrar em contato.
-```
