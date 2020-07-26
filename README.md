@@ -8,5 +8,8 @@
 #### Discord: Arthur Amorim#9378
 
 
-<p>Alguns repositórios são projetos academicos, assim podendo ter o conteudo do sistema em apenas um arquivo por pedido dos professores das matérias<p/>
-<p>Para visualizar projetos privados entrar em contato.<p/>
+##### Observação
+```
+Alguns repositórios são projetos academicos, assim podendo ter o conteudo do sistema em apenas um arquivo 
+por pedido dos professores das matérias. Para visualizar projetos privados entrar em contato.
+```
