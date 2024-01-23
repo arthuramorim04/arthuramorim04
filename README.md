@@ -7,6 +7,7 @@ Meu nome é Arthur, tenho 23 anos e trabalho atualmente no @MercadoLibre como So
 ### Skills 🚀
 
  - Spring Boot
+ - Go
  - PostgreSQL
  - MySQL
  - Oracle
@@ -22,9 +23,6 @@ Meu nome é Arthur, tenho 23 anos e trabalho atualmente no @MercadoLibre como So
  - ReactJs
  - VuesJs
  - Linux
-
-#### Atualmente Estudando
-- GoLang
 
 ### 📫Contato
 #### [Linkedin](https://www.linkedin.com/in/arthur-amorim-95b0a7160/)
