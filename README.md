@@ -2,7 +2,7 @@
 ### Olá 👋
 
 ### Bem-vindo ao meu perfil no github!
-Meu nome é Arthur, tenho 23 anos e trabalho atualmente no @MercadoLibre como Software Developer!
+Meu nome é Arthur, tenho 25 anos e trabalho atualmente no @MercadoLibre como Software Developer!
 
 ### Skills 🚀
 
